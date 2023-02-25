@@ -20,11 +20,11 @@ This is a very simple example, but it shows how to create a basic form with a bu
 
 ## Visual Basic for Applications (VBA)
 
-* Repository for private examples (reserved)
+* Repository for private [VBA examples](https://github.com/griemide/VBA) (reserved)  
 
 ## Visual Basic Scripting (VBS)
 
-* Repository for private examples (reserved)
+* Repository for private [VBS examples](https://github.com/griemide/VBA/tree/master/scripts) (reserved)
 
 ## References
 

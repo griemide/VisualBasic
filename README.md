@@ -8,8 +8,11 @@ Public Class Form1
         MsgBox("Hello, World!")
     End Sub
 End Class
-```
-Generated with [ChatGPT Feb 13 Version](https://chat.openai.com/chat)  ```dated 2023-02-25```  
+```  
+
+Generated with [ChatGPT Feb 13 Version](https://chat.openai.com/chat)  ```dated 2023-02-25```:  
+![Common example](examples/ChatGPT_2023-02-25_VB_common_example.png)
+
 In this example, we have a form (Form1) with a button (Button1) on it. When the button is clicked, it triggers the Button1_Click event, which displays a message box with the text "Hello, World!".
 
 This is a very simple example, but it shows how to create a basic form with a button and how to handle button click events in VB. From here, you can build more complex applications by adding additional controls and event handlers, and incorporating more advanced programming concepts like loops, conditions, and object-oriented programming.
